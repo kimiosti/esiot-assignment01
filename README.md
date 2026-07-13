@@ -1,6 +1,7 @@
 # Give me the Binary!
 
-A simple game about guessing the base-2 conversion of a base-10 number.  
+A simple game about guessing the base-2 conversion of a base-10 number.
+
 Developed as the first assignment for the Embedded Systems and Internet-of-Things course, part of the Computer Science and Engineering Bachelor Programme at the University of Bologna.
 
 ### The game
